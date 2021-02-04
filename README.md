@@ -5,7 +5,7 @@ This project was created as a solution for **Slice code challenge**.
 ## Installation
 Clone this repository and import into **Android Studio**
 ```bash
-git clone git@github.com:name/<reponame>.git
+git clone https://github.com/TimurKhakov/PizzaSlice.git
 ```
 
 ## Running unit tests
